@@ -20,7 +20,7 @@
     "compileHotReLoad": false,
     "useMultiFrameRuntime": true,
     "useApiHook": true,
-    "useApiHostProcess": false,
+    "useApiHostProcess": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -38,7 +38,7 @@
   },
   "compileType": "game",
   "libVersion": "1.9.94",
-  "appid": "wx976f3a37c7f0fd59",
+  "appid": "wx038a5c303dbdbb21",
   "projectname": "flappybird",
   "condition": {
     "search": {
